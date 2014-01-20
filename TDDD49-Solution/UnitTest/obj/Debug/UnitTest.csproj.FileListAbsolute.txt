@@ -1,0 +1,7 @@
+C:\Users\Samuel\Dropbox\Git\TDDD49\TDDD49-Solution\UnitTest\bin\Debug\UnitTest.dll
+C:\Users\Samuel\Dropbox\Git\TDDD49\TDDD49-Solution\UnitTest\bin\Debug\UnitTest.pdb
+C:\Users\Samuel\Dropbox\Git\TDDD49\TDDD49-Solution\UnitTest\bin\Debug\TDDD49Lab.exe
+C:\Users\Samuel\Dropbox\Git\TDDD49\TDDD49-Solution\UnitTest\bin\Debug\TDDD49Lab.pdb
+C:\Users\Samuel\Dropbox\Git\TDDD49\TDDD49-Solution\UnitTest\obj\Debug\UnitTest.csprojResolveAssemblyReference.cache
+C:\Users\Samuel\Dropbox\Git\TDDD49\TDDD49-Solution\UnitTest\obj\Debug\UnitTest.dll
+C:\Users\Samuel\Dropbox\Git\TDDD49\TDDD49-Solution\UnitTest\obj\Debug\UnitTest.pdb
